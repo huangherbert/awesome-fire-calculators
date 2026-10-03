@@ -33,6 +33,7 @@ Maintained by [UngrindFi](https://ungrindfi.com) — Free FIRE calculators that 
 
 - [Networthify](https://networthify.com/calculator/earlyretirement) - Clean, simple time-to-FIRE calculator.
 - [Playing With FIRE Calculator](https://playingwithfire.co/retirementcalculator/) - Based on the documentary; beginner-friendly.
+- [FIYR FIRE Calculator](https://fiyr.app/fire-calculator) - FIRE number, years to FI and FI age from six inputs, with Lean, Fat and Coast FIRE targets side by side. Runs in the browser, no sign-up; results are shareable by link.
 
 ---
 
